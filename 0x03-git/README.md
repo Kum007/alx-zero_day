@@ -1,2 +1,1 @@
-My 2nd README
-party
+My 2nd README file
